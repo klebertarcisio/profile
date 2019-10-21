@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Kleber Tarcísio Oliveira Santos
 
-You can use the [editor on GitHub](https://github.com/klebertarcisio/profile/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am graduated (2015) and master (2018) in Computer Science from the Federal University of Sergipe. I worked under the supervision of Prof. Dr. Alberto Costa Neto. I am currently an Information Technology Analyst at the Federal University of Campina Grande. My topics of interest are: refactoring, static analysis, software product lines, software testing, and evolution.
 
 ### Markdown
 
